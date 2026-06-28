@@ -25,7 +25,7 @@ function App() {
           
           <div className="flex items-center gap-2">
             <span className="text-2xl">🛒</span>
-            <h1 className="text-xl font-bold tracking-wider uppercase">Fake Store</h1>
+            <h1 className="text-xl font-bold tracking-wider uppercase">Rho Store</h1>
           </div>
 
           <div className="w-full sm:w-1/3 relative">
@@ -106,7 +106,7 @@ function App() {
       
       <footer className="bg-gray-950 text-gray-400 text-xs py-6 mt-12 border-t border-gray-800">
         <div className="container mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>&copy; {new Date().getFullYear()} Fake Store Catalog. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Rho Store Catalog. Todos los derechos reservados.</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-white transition">Términos y Condiciones</a>
             <a href="#" className="hover:text-white transition">Política de Privacidad</a>
